@@ -37,5 +37,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="/home/killiann/workspace/POOAVANCEE/toolbox/util.jar"/>
+	<classpathentry kind="lib" path="/home/killiann/workspace/POOAVANCEE/toolbox/CrazyCircus_obf.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
